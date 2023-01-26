@@ -32,6 +32,7 @@ class Solution:
                     long = s[i:j]
 
         return long
+출처 : https://sub2n.github.io/2019/04/22/LeetCode-5-Longest-Palindromic-Substring/
 """    
 
         
