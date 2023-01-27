@@ -4,7 +4,8 @@ class Solution:
             return s
         
         """
-        이부분@@@!!store = [[] for _ in range(numRows)] -> 나는 Dictionary로 접근하려고 했음, 이런 방법이 있다는걸 알았더라면!
+        이부분@@@!!store = [[] for _ in range(numRows)] -> 나는 Dictionary로 접근하려고 했음(기본 풀이 방법은 똑같음), 이런 방법이 있다는걸 알았더라면!
+        
         """
         store = [[] for _ in range(numRows)] # numRows만큼 재배치할 행을 초기화
         answer = ''
